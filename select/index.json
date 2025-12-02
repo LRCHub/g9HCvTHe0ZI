@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "キタカゼ",
+  "base_artist": "SIX LOUNGE",
+  "createdAt": "2025-12-02T16:45:56.497903Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キタカゼ",
+      "artist": "SIX LOUNGE",
+      "has_synced": false,
+      "path": "select/pl_01_キタカゼ_SIX_LOUNGE.txt"
+    }
+  ]
+}
